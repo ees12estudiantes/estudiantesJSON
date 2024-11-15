@@ -1,0 +1,20 @@
+{
+  "dni": "51401379",
+  "nombre": "VILLORDO EMILIA DEL VALLE",
+  "turno": "TM",
+  "curso": "1°1°",
+  "librofolio": "123",
+  "fechaNacimiento": "28-11-2024",
+  "edad": "18",
+  "nacionalidad": "Argentina",
+  "direccion": "aaaa123",
+  "telestudiante": "1111111111",
+  "telefonosAdicionales": [],
+  "retirosAutorizados": [
+    {
+      "nombre": "333333333333333",
+      "parentesco": "Vecino/a",
+      "telefono": "3333333333"
+    }
+  ]
+}
