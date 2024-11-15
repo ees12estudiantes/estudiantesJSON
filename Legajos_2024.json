@@ -1,0 +1,20 @@
+{
+  "dni": "48648705",
+  "nombre": "CORIA MARIA EMILIA",
+  "turno": "TM",
+  "curso": "5°2°",
+  "librofolio": "123",
+  "fechaNacimiento": "13-11-2024",
+  "edad": "19",
+  "nacionalidad": "Argentina",
+  "direccion": "aaaa123",
+  "telestudiante": "1111111111",
+  "telefonosAdicionales": [],
+  "retirosAutorizados": [
+    {
+      "nombre": "wwwwwww",
+      "parentesco": "Vecino/a",
+      "telefono": "11111"
+    }
+  ]
+}
