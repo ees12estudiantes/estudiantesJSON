@@ -1,0 +1,20 @@
+{
+  "dni": "50402067",
+  "nombre": "MENDOZA AMBAR",
+  "turno": "TT",
+  "curso": "2°3°",
+  "librofolio": "123",
+  "fechaNacimiento": "12-11-2024",
+  "edad": "19",
+  "nacionalidad": "Argentina",
+  "direccion": "aaaa123",
+  "telestudiante": "1111111111",
+  "telefonosAdicionales": [],
+  "retirosAutorizados": [
+    {
+      "nombre": "2222222222",
+      "parentesco": "Vecino/a",
+      "telefono": "2222222"
+    }
+  ]
+}
