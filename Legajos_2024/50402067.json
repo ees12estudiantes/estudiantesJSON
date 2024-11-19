@@ -19,5 +19,11 @@
       "rol": "padre"
     }
   ],
-  "retirosAutorizados": []
+  "retirosAutorizados": [
+    {
+      "nombre": "4444444444444444",
+      "parentesco": "Primo/a",
+      "telefono": "4444444444"
+    }
+  ]
 }
