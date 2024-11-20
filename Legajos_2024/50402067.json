@@ -28,6 +28,11 @@
       "nombre": "uuuuuuuuuuuuuuuu",
       "parentesco": "tutor",
       "telefono": "8888888888"
+    },
+    {
+      "nombre": "zzzzzzzzzzzzz",
+      "parentesco": "padre",
+      "telefono": "0000000000"
     }
   ]
 }
