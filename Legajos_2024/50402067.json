@@ -9,6 +9,17 @@
   "nacionalidad": "Argentina",
   "direccion": "444444444444",
   "telestudiante": "1111111",
-  "telefonosAdicionales": [],
-  "retirosAutorizados": []
+  "telefonosAdicionales": [
+    {
+      "telefono": "1111111111",
+      "rol": "padre"
+    }
+  ],
+  "retirosAutorizados": [
+    {
+      "nombre": "2222222222222",
+      "parentesco": "Otro",
+      "telefono": "2222222222"
+    }
+  ]
 }
