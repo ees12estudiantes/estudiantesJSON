@@ -3,8 +3,8 @@
   "nombre": "MENDOZA AMBAR",
   "turno": "TT",
   "curso": "2°3°",
-  "librofolio": "44444444",
-  "fechaNacimiento": "12-11-2024",
+  "librofolio": "555555555555",
+  "fechaNacimiento": "14-11-2024",
   "edad": "14",
   "nacionalidad": "Argentina",
   "direccion": "4444444444",
@@ -22,7 +22,7 @@
   "retirosAutorizados": [
     {
       "nombre": "4444444444444444",
-      "parentesco": "Primo/a",
+      "parentesco": "padre",
       "telefono": "4444444444"
     }
   ]
