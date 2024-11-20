@@ -17,6 +17,10 @@
     {
       "telefono": "2222222",
       "rol": "padre"
+    },
+    {
+      "telefono": "3333333333",
+      "rol": "madre"
     }
   ],
   "retirosAutorizados": [
