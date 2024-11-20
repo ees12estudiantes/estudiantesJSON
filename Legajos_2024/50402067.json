@@ -3,27 +3,12 @@
   "nombre": "MENDOZA AMBAR",
   "turno": "TT",
   "curso": "2°3°",
-  "librofolio": "555555555555",
-  "fechaNacimiento": "15-11-2024",
-  "edad": "14",
+  "librofolio": "123",
+  "fechaNacimiento": "19-11-2024",
+  "edad": "18",
   "nacionalidad": "Argentina",
-  "direccion": "4444444444",
-  "telestudiante": "4444444444",
-  "telefonosAdicionales": [
-    {
-      "telefono": "4444444444",
-      "rol": "padre"
-    },
-    {
-      "telefono": "5555555555",
-      "rol": "padre"
-    }
-  ],
-  "retirosAutorizados": [
-    {
-      "nombre": "4444444444444444",
-      "parentesco": "padre",
-      "telefono": "4444444444"
-    }
-  ]
+  "direccion": "444444444444",
+  "telestudiante": "1111111",
+  "telefonosAdicionales": [],
+  "retirosAutorizados": []
 }
