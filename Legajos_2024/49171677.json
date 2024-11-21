@@ -1,0 +1,20 @@
+{
+  "dni": "49171677",
+  "nombre": "VILLORDO ENZO VALENTIN",
+  "turno": "TM",
+  "curso": "4°2°",
+  "librofolio": "111",
+  "fechaNacimiento": "2024-11-21",
+  "edad": "18",
+  "nacionalidad": "Argentina",
+  "direccion": "111",
+  "telestudiante": "11111",
+  "telefonosAdicionales": [],
+  "retirosAutorizados": [
+    {
+      "nombre": "11111",
+      "parentesco": "padre",
+      "telefono": "11111"
+    }
+  ]
+}
