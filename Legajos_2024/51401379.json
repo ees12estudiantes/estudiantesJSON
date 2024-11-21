@@ -9,11 +9,21 @@
   "nacionalidad": "Argentina",
   "direccion": "aaaa123",
   "telestudiante": "1111111111",
-  "telefonosAdicionales": [],
+  "telefonosAdicionales": [
+    {
+      "telefono": "1111111111",
+      "rol": "madre"
+    }
+  ],
   "retirosAutorizados": [
     {
       "nombre": "333333333333333",
       "parentesco": "padre",
+      "telefono": "3333333333"
+    },
+    {
+      "nombre": "33333333333333",
+      "parentesco": "madre",
       "telefono": "3333333333"
     }
   ]
