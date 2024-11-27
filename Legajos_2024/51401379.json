@@ -7,24 +7,24 @@
   "fechaNacimiento": "2024-11-20",
   "edad": "10",
   "nacionalidad": "Argentina",
-  "direccion": "aaaa1234",
-  "telestudiante": "1111111111",
+  "direccion": "rrrrrrrrrrr",
+  "telestudiante": "555555555",
   "telefonosAdicionales": [
     {
-      "telefono": "1111111111",
+      "telefono": "5555555555",
       "rol": "madre"
     }
   ],
   "retirosAutorizados": [
     {
-      "nombre": "333333333333333",
+      "nombre": "777777777777",
       "parentesco": "padre",
-      "telefono": "3333333333"
+      "telefono": "7777777777"
     },
     {
-      "nombre": "33333333333333",
+      "nombre": "88888888888888",
       "parentesco": "madre",
-      "telefono": "3333333333"
+      "telefono": "8888888888"
     }
   ]
 }
