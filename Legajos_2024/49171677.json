@@ -3,18 +3,28 @@
   "nombre": "VILLORDO ENZO VALENTIN",
   "turno": "TM",
   "curso": "4°2°",
-  "librofolio": "111",
-  "fechaNacimiento": "2024-11-21",
-  "edad": "18",
-  "nacionalidad": "Argentina",
-  "direccion": "111",
-  "telestudiante": "11111",
-  "telefonosAdicionales": [],
+  "librofolio": "1234",
+  "fechaNacimiento": "2024-11-20",
+  "edad": "10",
+  "nacionalidad": "Armenia",
+  "direccion": "aaaa1234",
+  "telestudiante": "1111111111",
+  "telefonosAdicionales": [
+    {
+      "telefono": "1111111111",
+      "rol": "madre"
+    }
+  ],
   "retirosAutorizados": [
     {
-      "nombre": "11111",
+      "nombre": "333333333333333",
       "parentesco": "padre",
-      "telefono": "11111"
+      "telefono": "3333333333"
+    },
+    {
+      "nombre": "33333333333333",
+      "parentesco": "madre",
+      "telefono": "3333333333"
     }
   ]
 }
